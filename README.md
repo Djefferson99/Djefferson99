@@ -1,6 +1,6 @@
 ### Olá sou o Djefferson Wallacy desenvolvedor Full Stack, bem vindo ao meu perfil!!! 👋
 
-- 💻 A procura de novas oportuinidades como desenvolvedor! 
+- 💻 A procura de novas oportunidades como desenvolvedor! 
 - ☕ Dev Full Stack
 <a href="https://github.com/Djefferson99">
 <div style="display: inline_block"><br>
